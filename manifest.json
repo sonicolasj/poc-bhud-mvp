@@ -1,0 +1,17 @@
+{
+  "name": "PocBHudMVP",
+  "version": "0.1.0",
+  "namespace": "PocBHudMVP",
+  "package": "PocBHudMVP.dll",
+  "manifest_version": 1,
+  "description": "",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.0"
+  },
+  "contributors": [
+    {
+      "name": "sonicolasj",
+      "username": "sonicolasj.9534"
+    }
+  ]
+}
